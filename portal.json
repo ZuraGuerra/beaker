@@ -1,10 +1,13 @@
 {
-  "name": "new_name",
-  "desc": "new_desc",
-  "port": [
-    "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/"
+  "name": "grafofilia",
+  "desc": "Being.",
+  "site": "http://zura.space",
+  "port": [],
+  "feed": [
+    {
+      "message": "(This place feels like Ello in the good ol' days.)",
+      "timestamp": 1508212921588
+    }
   ],
-  "feed": [],
-  "site": "",
-  "dat": ""
+  "dat": "dat://3f7b0cf93c6ae1d3a42644f5f88225eb2ca3f4a98fa3156d43726731167f0634/"
 }
